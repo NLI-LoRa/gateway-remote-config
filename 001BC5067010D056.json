@@ -1,0 +1,18 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "001BC5067010D056",
+    "servers": [
+      {
+        "server_address": "router.eu.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": 52.252739,
+    "ref_longitude": 10.500521,
+    "ref_altitude": 40,
+    "contact_email": "",
+    "description": "NLI-LoRa Gateway"
+  }
+}
